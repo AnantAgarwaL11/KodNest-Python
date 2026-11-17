@@ -1,1 +1,1 @@
-#write you code here
+print("This is out first class")
