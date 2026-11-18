@@ -20,7 +20,7 @@ I want to become an AI Engineer.
 
 Complete these sentences:
 
-Programming means:Writing instructions for a computer to follow.
+Programming means writing instructions for a computer to follow.
 
 Python is a high-level programming language known for its readable syntax.
 
