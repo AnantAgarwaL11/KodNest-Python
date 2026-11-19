@@ -25,3 +25,17 @@ Programming means writing instructions for a computer to follow.
 Python is a high-level programming language known for its readable syntax.
 
 In this track, I will about Python full stack and GenAI.
+
+Programming Language: It is a formal language used to give programming instructions in a form that a computer can process.
+
+Python is not same as programming
+
+Syntax: It means writing rules of a programming language
+
+Yes the same algorithm be written in both Java and Python
+
+Understanding the problem comes first
+
+Logic of solving the problem remains the same when one solution is written in different programming languages.
+
+Yes, a person can struggle to solve a problem even if he knows Python programming language.
