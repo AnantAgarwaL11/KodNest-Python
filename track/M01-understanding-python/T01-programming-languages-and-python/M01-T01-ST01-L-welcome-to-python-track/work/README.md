@@ -62,3 +62,4 @@ It provides a human readable syntax to write programs
 
 A programming language acts as a bridge between human thinking and computer.
 Python allows a developer to give instructions to computer in the form of human readable syntax.
+A computer follows instructions that are given by the user.
