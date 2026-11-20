@@ -39,3 +39,26 @@ Understanding the problem comes first
 Logic of solving the problem remains the same when one solution is written in different programming languages.
 
 Yes, a person can struggle to solve a problem even if he knows Python programming language.
+
+# Why programming languages exist
+Programming languages acts a bridge between human thinking and computer.
+
+## Why does a computer need instructions
+Computer need instructions to perform tasks as it can't work on its own
+
+## Why cant we build applications using Normal Human Language
+We cant build applications using Normal Human language as computer only understands Machine Level Language i.e. Binary values
+
+## What problem do Programming Language Solve
+It translate instructions given in Human readable form to Machine readable form
+
+## Why is Machine Language Difficult for Humans
+It's diffcult to understand and write complex programs in binary code
+
+## How does Python Help
+It provides a human readable syntax to write programs
+
+## My final Understanding
+
+A programming language acts as a bridge between human thinking and computer.
+Python allows a developer to give instructions to computer in the form of human readable syntax.
